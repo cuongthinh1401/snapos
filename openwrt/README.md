@@ -9,7 +9,7 @@ https://openwrt.org/docs/guide-developer/build-system/install-buildsystem
 Clone OpenWrt to some place in your home directory (`<wrt dir>`)
 
     $ git clone https://git.openwrt.org/openwrt/openwrt.git
-    $ git clone https://github.com/badaix/snapos.git
+    $ git clone https://github.com/cuongthinh1401/snapos.git
         
 # Select a specific code revision
     cd openwrt
